@@ -1,0 +1,80 @@
+body{
+    background: linear-gradient(115deg, #fdcc3bdc 60%, #ffed4bb4 60%);
+    width: 60vh;
+    height: 100vh;
+    margin: auto;
+    min-width: 280px;
+    
+}
+h1{
+    background: -webkit-linear-gradient(#9acd32, #464444);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family:monospace;
+    text-align: center;
+    padding: 35px 25px 35px;
+    margin-top: 30%;
+    font-size: 3em;  
+}
+.fa-solid {
+    color: yellowgreen;
+    font-size: 50px;
+    
+}
+.fa-brands{
+    color: rgba(26, 26, 131, 0.801);
+    padding-right: 8px;
+}
+.fa-twitter{
+    color: rgb(100, 235, 235);
+    padding-right: 8px;
+}
+.fa-github{
+    color: black;
+    padding-right: 8px;
+}
+a{
+    text-decoration: none;
+    color: black;
+   
+}
+a:visited{
+    color:#ffbf00;
+}
+
+#content1{
+    background-color: aliceblue;
+    min-width: 230px;
+    border-radius: 15px 15px;
+    
+
+}
+#content2{
+    background-color: aliceblue;
+    padding: 35px 35px;
+    border-radius: 5% 5%;
+    margin: 0%;
+    min-width: 230px;
+    font-family: monospace;
+    font-size: 1.2em;
+}
+.info1,.info2,.info3{
+    text-align: center;
+    padding: 15px 15px ;
+    border: 3px outset rgb(70, 68, 68);
+    border-right-color:#80ff00e8 ;
+    border-bottom-color:#80ff0086 ;
+    border-radius: 4px 4px 4px ;
+    width: 70%;
+    margin: 35px 35px;
+}
+.info1:hover,.info2:hover,.info3:hover{
+    border: 3px outset #9acd32;
+    border-right-color: rgba(70, 68, 68, 0.753);
+    border-bottom-color:rgba(70, 68, 68, 0.753);
+}
+
+
+
+
+
