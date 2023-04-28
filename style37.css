@@ -1,0 +1,101 @@
+body{
+    background-color: rgba(0, 0, 0, 0.93);
+    color: rgba(240, 248, 255, 0.733);
+    margin-left: 40%;
+    min-width: 230px;
+    font: 14px sans-serif;  
+    
+}
+div{
+    background-color:#202020;
+    padding: 55px 55px;
+    width: 45%;
+    display: block;
+    height: 50%;
+    
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border-radius: 5px;
+}
+
+h4{
+    font-size: 1.2em;
+    text-align: center;
+    font-family: sans-serif;
+    padding-top: 50px;
+    color: aliceblue;
+}
+a{
+    color: aliceblue;
+    text-decoration: aliceblue underline;
+    font: 14px sans-serif;
+}
+#text:hover{
+    text-decoration: aliceblue;
+}
+.usuario,.pass{
+    background-color: #202020;
+    color: aliceblue;
+    border-color: rgba(240, 248, 255, 0.747);
+    border-radius: 5px;
+    padding:30px 30px 10px 15px ;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    display: block;
+    
+}
+
+#olvidaste{
+    float: right;
+    display: block;
+    padding-left: 0%;
+    padding-top: 15px;
+    padding-right: 35px;
+    font: 1em;
+}
+
+
+label {
+    color: rgba(240, 248, 255, 0.733);
+    float: left;
+    padding-top: 15px;
+    margin-left: 35px ;
+    
+}
+button{
+    padding: 20px 55px ;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 45px;
+    display: block;
+    border-radius: 5px;
+    border-style: none;
+    background-color: rgba(0, 140, 255, 0.993);
+    font-size: 12px;
+    font-weight: bolder;
+    height: 30%;
+}
+#text,footer{
+    text-align: center;
+    display: block;
+   margin-left: auto;
+   margin-right: auto;
+   padding: 15px;
+   font-size: 1em;
+}
+
+/*#box{
+   no entiendo como decorar el checkbox ay
+}*/
+
+img{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 15%;
+   
+
+}
