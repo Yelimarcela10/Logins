@@ -1,0 +1,36 @@
+body{
+    margin: 15px;
+}
+
+h1{
+    margin: 15px;
+    padding: 10px;
+}
+ul{
+    margin: 0%;
+}
+li{
+    padding:5px  10px;
+    list-style: none;
+}
+
+.column-1{
+    float: left;
+    margin: 0px 20px;
+}
+
+input{
+    padding:4px;
+    margin: 3px;
+    background-color: rgb(207, 207, 207);
+    border-radius: 5px;
+    border: rgb(189, 189, 189);
+}
+
+.button{
+    float: left;
+    left: 5px;
+    margin-left: 50px;
+    padding:  0 15px ;
+    
+}
